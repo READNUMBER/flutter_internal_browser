@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - internal_browser (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - internal_browser (from `.symlinks/plugins/internal_browser/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  internal_browser:
+    :path: ".symlinks/plugins/internal_browser/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  internal_browser: 045c011f3f4af24786cba39af7b3838a14d8db66
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
